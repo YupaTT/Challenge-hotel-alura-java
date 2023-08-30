@@ -1,4 +1,4 @@
-package cr.com.charly.views;
+package cr.com.yupa.views;
 
 import java.awt.EventQueue;
 import javax.swing.JFrame;

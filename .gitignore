@@ -35,4 +35,4 @@ build/
 .DS_Store
 
 ### Pruebas ###
-/src/main/java/cr/com/charly/pruebas/
+/src/main/java/cr/com/yupa/pruebas/

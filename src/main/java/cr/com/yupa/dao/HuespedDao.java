@@ -1,6 +1,6 @@
-package cr.com.charly.dao;
+package cr.com.yupa.dao;
 
-import cr.com.charly.modelo.Huesped;
+import cr.com.yupa.modelo.Huesped;
 
 import java.sql.*;
 import java.time.LocalDate;

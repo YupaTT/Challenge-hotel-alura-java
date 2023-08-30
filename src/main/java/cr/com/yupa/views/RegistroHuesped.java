@@ -1,20 +1,19 @@
-package cr.com.charly.views;
+package cr.com.yupa.views;
 
 import java.awt.*;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
 import com.toedter.calendar.JDateChooser;
-import cr.com.charly.controller.HuespedController;
-import cr.com.charly.controller.ReservaController;
-import cr.com.charly.modelo.Huesped;
-import cr.com.charly.modelo.Reserva;
+import cr.com.yupa.controller.HuespedController;
+import cr.com.yupa.controller.ReservaController;
+import cr.com.yupa.modelo.Huesped;
+import cr.com.yupa.modelo.Reserva;
 
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionAdapter;
 import java.text.Format;
-import java.time.LocalDate;
 import java.time.ZoneId;
 import java.util.Date;
 

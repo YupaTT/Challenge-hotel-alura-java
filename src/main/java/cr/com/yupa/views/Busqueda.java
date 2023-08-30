@@ -1,7 +1,7 @@
-package cr.com.charly.views;
+package cr.com.yupa.views;
 
-import cr.com.charly.controller.HuespedController;
-import cr.com.charly.controller.ReservaController;
+import cr.com.yupa.controller.HuespedController;
+import cr.com.yupa.controller.ReservaController;
 
 import java.awt.EventQueue;
 import javax.swing.JFrame;

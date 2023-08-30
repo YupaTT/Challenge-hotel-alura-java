@@ -1,6 +1,6 @@
-package cr.com.charly;
+package cr.com.yupa;
 
-import cr.com.charly.views.Login;
+import cr.com.yupa.views.Login;
 
 public class Main {
     public static void main(String[] args) {

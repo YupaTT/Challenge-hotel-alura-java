@@ -1,4 +1,4 @@
-package cr.com.charly.factory;
+package cr.com.yupa.factory;
 
 import javax.sql.DataSource;
 import com.mchange.v2.c3p0.ComboPooledDataSource;

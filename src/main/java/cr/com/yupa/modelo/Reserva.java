@@ -1,4 +1,4 @@
-package cr.com.charly.modelo;
+package cr.com.yupa.modelo;
 
 import java.time.LocalDate;
 

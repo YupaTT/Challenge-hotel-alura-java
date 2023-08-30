@@ -1,8 +1,8 @@
-package cr.com.charly.controller;
+package cr.com.yupa.controller;
 
-import cr.com.charly.dao.HuespedDao;
-import cr.com.charly.factory.ConnectionFactory;
-import cr.com.charly.modelo.Huesped;
+import cr.com.yupa.dao.HuespedDao;
+import cr.com.yupa.factory.ConnectionFactory;
+import cr.com.yupa.modelo.Huesped;
 
 import java.time.LocalDate;
 import java.util.List;
